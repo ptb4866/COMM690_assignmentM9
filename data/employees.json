@@ -2,7 +2,7 @@
         {
             "id": 34123413,
             "name": "Zak Ruvalcaba",
-            "departmentId": 3424,
+            "extension": 3424,
             "email": "zak@vectacorp.com",
             "department": "Executive"
             
@@ -10,14 +10,14 @@
         {
             "id": 23424665,
             "name": "Sally Smith",
-            "departmentId": 2344,
+            "extension": 2344,
             "email": "sally@vectacorp.com",
             "department": "Administrative"
         },
         {
             "id": 12341244,
             "name": "Mark Martin",
-            "departmentId": 5352,
+            "extension": 5352,
             "email": "mark@vectacorp.com",
             "department": "Sales"
         },  
@@ -25,14 +25,14 @@
         {
             "id": 14545423,
             "name": "Robin Banks",
-            "departmentId": 7867,
+            "extension": 7867,
             "email": "robin@vectacorp.com",
             "department": "Marketing"
         },
         {
             "id": 13413453,
             "name": "Sue Wedge",
-            "departmentId": 1235,
+            "extension": 1235,
             "email": "sue@vectacorp.com",
             "department": "QA"
         }
